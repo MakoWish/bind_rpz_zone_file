@@ -5,15 +5,17 @@ def remove_duplicates(file_path):
 	try:
 		with open(file_path, 'r') as file:
 			lines = file.readlines()
-		
-		# Remove duplicates by converting lines to a set and then back to a list
-		unique_lines = list(set(lines))
+
+		# Remove duplicates while preserving order
+		seen = set()
+		unique_lines = [line for line in lines if not (line in seen or seen.add(line))]
 
 		# Write the unique lines back to the file
 		with open(file_path, 'w') as file:
 			file.writelines(unique_lines)
 
-		print(f"Duplicate lines removed from '{file_path}'")
+		duplicates = len(lines) - len(unique_lines)
+		print(f"{duplicates} duplicate entries removed from '{file_path}'.")
 
 	except Exception as e:
 		print(f"An error occurred: {e}")
@@ -47,11 +49,11 @@ def write_zone_file(input, rpz):
 ;
 $TTL    86400
 @       IN      SOA     localhost. root.localhost. (
-                              1         ; Serial
-                         604800         ; Refresh
-                          86400         ; Retry
-                        2419200         ; Expire
-                          86400 )       ; Negative Cache TTL
+							  1         ; Serial
+						 604800         ; Refresh
+						  86400         ; Retry
+						2419200         ; Expire
+						  86400 )       ; Negative Cache TTL
 ;
 @       IN      NS      localhost.
 """)
