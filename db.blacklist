@@ -148891,6 +148891,8 @@ b.poland-finance-news.space CNAME .
 *.b.poland-finance-news.space CNAME .
 b.povarenok.ru CNAME .
 *.b.povarenok.ru CNAME .
+b.pub.network CNAME .
+*.b.pub.network CNAME .
 b.publicmobile.ca CNAME .
 *.b.publicmobile.ca CNAME .
 b.r10.mopub.com CNAME .
@@ -212679,8 +212681,6 @@ click.digiato.com CNAME .
 *.click.digiato.com CNAME .
 click.digital.metaquestmail.com CNAME .
 *.click.digital.metaquestmail.com CNAME .
-click.discord.com CNAME .
-*.click.discord.com CNAME .
 click.dtiserv2.com CNAME .
 *.click.dtiserv2.com CNAME .
 click.duga.jp CNAME .

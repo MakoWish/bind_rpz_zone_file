@@ -74439,6 +74439,7 @@ b.parade.com
 b.photobucket.com
 b.poland-finance-news.space
 b.povarenok.ru
+b.pub.network
 b.publicmobile.ca
 b.r10.mopub.com
 b.rad.live.com
@@ -106333,7 +106334,6 @@ click.datafilteringsite.com
 click.dealshark.com
 click.digiato.com
 click.digital.metaquestmail.com
-click.discord.com
 click.dtiserv2.com
 click.duga.jp
 click.e.bbcmail.co.uk
