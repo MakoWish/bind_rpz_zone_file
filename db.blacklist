@@ -136553,8 +136553,6 @@ arc.bm CNAME .
 *.arc.bm CNAME .
 arc.io CNAME .
 *.arc.io CNAME .
-arc.msn.com CNAME .
-*.arc.msn.com CNAME .
 arc.scot CNAME .
 *.arc.scot CNAME .
 arc1.msn.com CNAME .
@@ -183793,8 +183791,6 @@ browser.gwdang.com CNAME .
 *.browser.gwdang.com CNAME .
 browser.miui.com CNAME .
 *.browser.miui.com CNAME .
-browser.pipe.aria.microsoft.com CNAME .
-*.browser.pipe.aria.microsoft.com CNAME .
 browser.services CNAME .
 *.browser.services CNAME .
 browser.vivo.com.cn CNAME .
@@ -300519,8 +300515,6 @@ events-pandora.com CNAME .
 *.events-pandora.com CNAME .
 events-prod.autolist.com CNAME .
 *.events-prod.autolist.com CNAME .
-events-sandbox.data.microsoft.com CNAME .
-*.events-sandbox.data.microsoft.com CNAME .
 events-service.coinbase.com CNAME .
 *.events-service.coinbase.com CNAME .
 events-shopify.mailody.de CNAME .
@@ -300643,8 +300637,6 @@ events.coniferhealth.com CNAME .
 *.events.coniferhealth.com CNAME .
 events.crezu.net CNAME .
 *.events.crezu.net CNAME .
-events.data.microsoft.com CNAME .
-*.events.data.microsoft.com CNAME .
 events.data.msn.cn CNAME .
 *.events.data.msn.cn CNAME .
 events.data.trafficmanager.net CNAME .
@@ -469889,10 +469881,6 @@ measure.office.com CNAME .
 *.measure.office.com CNAME .
 measure.office.com.akamaized.net CNAME .
 *.measure.office.com.akamaized.net CNAME .
-measure.office.net CNAME .
-*.measure.office.net CNAME .
-measure.office.net.edgesuite.net CNAME .
-*.measure.office.net.edgesuite.net CNAME .
 measure.pti.com.vn CNAME .
 *.measure.pti.com.vn CNAME .
 measure.vndirect.com.vn CNAME .
@@ -491369,8 +491357,6 @@ mobile.novanet.vn CNAME .
 *.mobile.novanet.vn CNAME .
 mobile.parkandpay-ca.com CNAME .
 *.mobile.parkandpay-ca.com CNAME .
-mobile.pipe.aria.microsoft.com CNAME .
-*.mobile.pipe.aria.microsoft.com CNAME .
 mobile.slgnt.eu CNAME .
 *.mobile.slgnt.eu CNAME .
 mobile.smartadserver.com CNAME .
@@ -567497,8 +567483,6 @@ pipe-collect.ebu.io CNAME .
 *.pipe-collect.ebu.io CNAME .
 pipe-neywork.sbs CNAME .
 *.pipe-neywork.sbs CNAME .
-pipe.aria.microsoft.com CNAME .
-*.pipe.aria.microsoft.com CNAME .
 pipeaota.com CNAME .
 *.pipeaota.com CNAME .
 pipechallenge.com CNAME .
@@ -648533,14 +648517,6 @@ settingcontactprivacy.com CNAME .
 *.settingcontactprivacy.com CNAME .
 settings-analytics.hotstar.com CNAME .
 *.settings-analytics.hotstar.com CNAME .
-settings-sandbox.data.microsoft.com CNAME .
-*.settings-sandbox.data.microsoft.com CNAME .
-settings-win-ppe.data.microsoft.com CNAME .
-*.settings-win-ppe.data.microsoft.com CNAME .
-settings-win.data.microsoft.com CNAME .
-*.settings-win.data.microsoft.com CNAME .
-settings.data.microsoft.com CNAME .
-*.settings.data.microsoft.com CNAME .
 settings.luckyorange.net CNAME .
 *.settings.luckyorange.net CNAME .
 settingsbucket.s3.amazonaws.com CNAME .
@@ -789319,8 +789295,6 @@ v1.wphonelife.com CNAME .
 *.v1.wphonelife.com CNAME .
 v10.xmlsearch.miva.com CNAME .
 *.v10.xmlsearch.miva.com CNAME .
-v10c.events.data.microsoft.com CNAME .
-*.v10c.events.data.microsoft.com CNAME .
 v112q4j9.top CNAME .
 *.v112q4j9.top CNAME .
 v11e.ca CNAME .
@@ -804633,16 +804607,6 @@ vorteilsguru.de CNAME .
 *.vorteilsguru.de CNAME .
 vortex-cryptonews.com CNAME .
 *.vortex-cryptonews.com CNAME .
-vortex-sandbox.data.microsoft.com CNAME .
-*.vortex-sandbox.data.microsoft.com CNAME .
-vortex-win-sandbox.data.microsoft.com CNAME .
-*.vortex-win-sandbox.data.microsoft.com CNAME .
-vortex-win.data.microsoft.com CNAME .
-*.vortex-win.data.microsoft.com CNAME .
-vortex.data.microsoft.com CNAME .
-*.vortex.data.microsoft.com CNAME .
-vortex.data.trafficmanager.net CNAME .
-*.vortex.data.trafficmanager.net CNAME .
 vortex.hulu.com CNAME .
 *.vortex.hulu.com CNAME .
 vortex.hulu.com.akadns.net CNAME .
@@ -813039,8 +813003,6 @@ web.vindicosuite.com CNAME .
 *.web.vindicosuite.com CNAME .
 web.vonazon.com CNAME .
 *.web.vonazon.com CNAME .
-web.vortex.data.microsoft.com CNAME .
-*.web.vortex.data.microsoft.com CNAME .
 web.wearejust.co.uk CNAME .
 *.web.wearejust.co.uk CNAME .
 web.web.tomasiauto.com CNAME .

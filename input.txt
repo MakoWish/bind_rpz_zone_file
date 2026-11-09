@@ -68270,7 +68270,6 @@ arc-architecture.com
 arc-emea.msn.com
 arc.bm
 arc.io
-arc.msn.com
 arc.scot
 arc1.msn.com
 arc2.msn.com
@@ -91890,7 +91889,6 @@ browser-update.org
 browser-updater.yandex.net
 browser.gwdang.com
 browser.miui.com
-browser.pipe.aria.microsoft.com
 browser.services
 browser.vivo.com.cn
 browser9182.web.fc2.com
@@ -150253,7 +150251,6 @@ events-op-hicloud-com-drcn.appacc.dbankedge.net
 events-open-sea.com
 events-pandora.com
 events-prod.autolist.com
-events-sandbox.data.microsoft.com
 events-service.coinbase.com
 events-shopify.mailody.de
 events-stream-svc.cordial.com
@@ -150315,7 +150312,6 @@ events.coface.com
 events.compellent.com
 events.coniferhealth.com
 events.crezu.net
-events.data.microsoft.com
 events.data.msn.cn
 events.data.trafficmanager.net
 events.demoup.com
@@ -234938,8 +234934,6 @@ measure.ly
 measure.mf.cz
 measure.office.com
 measure.office.com.akamaized.net
-measure.office.net
-measure.office.net.edgesuite.net
 measure.pti.com.vn
 measure.vndirect.com.vn
 measuread.com
@@ -245678,7 +245672,6 @@ mobile.measurelib.com
 mobile.mng-ads.com
 mobile.novanet.vn
 mobile.parkandpay-ca.com
-mobile.pipe.aria.microsoft.com
 mobile.slgnt.eu
 mobile.smartadserver.com
 mobile.tradeshow.globalsources.com
@@ -283742,7 +283735,6 @@ pipaliem.com
 piparelli.net
 pipe-collect.ebu.io
 pipe-neywork.sbs
-pipe.aria.microsoft.com
 pipeaota.com
 pipechallenge.com
 pipedream.wistia.com
@@ -324260,10 +324252,6 @@ settingacounts.com
 settingbusiness-pagepro.com
 settingcontactprivacy.com
 settings-analytics.hotstar.com
-settings-sandbox.data.microsoft.com
-settings-win-ppe.data.microsoft.com
-settings-win.data.microsoft.com
-settings.data.microsoft.com
 settings.luckyorange.net
 settingsbucket.s3.amazonaws.com
 settingsfd-geo.trafficmanager.net
@@ -394653,7 +394641,6 @@ v1.ventreprivefrance.site
 v1.viayonetici.com
 v1.wphonelife.com
 v10.xmlsearch.miva.com
-v10c.events.data.microsoft.com
 v112q4j9.top
 v11e.ca
 v11media.com
@@ -402310,11 +402297,6 @@ vorsoutseemt.com
 vorta.online
 vorteilsguru.de
 vortex-cryptonews.com
-vortex-sandbox.data.microsoft.com
-vortex-win-sandbox.data.microsoft.com
-vortex-win.data.microsoft.com
-vortex.data.microsoft.com
-vortex.data.trafficmanager.net
 vortex.hulu.com
 vortex.hulu.com.akadns.net
 vortex7.org
@@ -406513,7 +406495,6 @@ web.usautosupply.com
 web.ventunotech.com
 web.vindicosuite.com
 web.vonazon.com
-web.vortex.data.microsoft.com
 web.wearejust.co.uk
 web.web.tomasiauto.com
 web.x.ilpost.it
